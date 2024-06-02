@@ -1,9 +1,5 @@
-hello hi bye bye
-taata tut
-abhijeet
-trivedi
 
-xyz
+kumar
+kumar
 
 
-def
