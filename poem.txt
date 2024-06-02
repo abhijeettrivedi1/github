@@ -3,7 +3,3 @@ taata tut
 abhijeet
 trivedi
 
-xyz
-
-
-def
